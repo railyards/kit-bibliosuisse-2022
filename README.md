@@ -13,8 +13,8 @@ Donner aux formateurs/trices débutant-es des bases et des ressources pour prép
 Mathilde Panes, *bibliothécaire formatrice*   
 [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 Raphaël Grolimund, *bibliothécaire formateur*   
-[raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
-Laure Mellifluo
+[raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)    
+Laure Mellifluo   
 [laure.mellifluo@unige.ch](mailto:laure.mellifluo@unige.ch)
 
 
