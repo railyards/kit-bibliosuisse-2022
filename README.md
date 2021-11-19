@@ -2,7 +2,7 @@
 
 
 ## Contexte
-Kit créé dans le cours du cours Bibliosse "Former aux compétences informationnelles en milieu académique: kit pour se lancer" proposé par l'AGIK (représentée par Laure Mellifluo et Mathilde Panes). Ce document est inspiré d'un atelier donné en lors du Congrès BIS 2018 à Montreux.
+Kit créé dans le cours du cours Bibliosuisse "Former aux compétences informationnelles en milieu académique: kit pour se lancer" proposé par l'AGIK (représentée par Laure Mellifluo et Mathilde Panes). Ce document est inspiré d'un atelier donné en lors du Congrès BIS 2018 à Montreux.
 
 
 ## Objectifs du cours
