@@ -16,6 +16,7 @@ Laure Mellifluo
 [laure.mellifluo@unige.ch](mailto:laure.mellifluo@unige.ch)
 
 Version initiale:
+
 Raphaël Grolimund, *bibliothécaire formateur*   
 [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
