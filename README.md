@@ -1,19 +1,21 @@
-# Formation des usagers: kit de survie à l'attention des formateurs
+# Former aux compétences informationnelles en milieu académique: kit pour se lancer
 
 
 ## Contexte
-Notes de cours de l'atelier créé pour le **Congrès BIS 2018** (29-31 août 2018) à Montreux (version 0.1.1). Ce document est réutilisé dans le cadre de la formation de formateurs à la Bibliothèque de l'EPFL.
+Kit créé dans le cours du cours Bibliosse "Former aux compétences informationnelles en milieu académique: kit pour se lancer" proposé par l'AGIK (représentée par Laure Mellifluo et Mathilde Panes). Ce document est inspiré d'un atelier donné en lors du Congrès BIS 2018 à Montreux.
 
 
 ## Objectifs du cours
 
-Donner aux formateurs débutants des bases et des ressources pour préparer une formation
+Donner aux formateurs/trices débutant-es des bases et des ressources pour préparer une formation aux compétences informationnelles
 
 ## Auteurs
 Mathilde Panes, *bibliothécaire formatrice*   
 [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 Raphaël Grolimund, *bibliothécaire formateur*   
-[raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
+[raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
+Laure Mellifluo
+[laure.mellifluo@unige.ch](mailto:laure.mellifluo@unige.ch)
 
 
 ## Version `0.2`
