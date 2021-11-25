@@ -8,6 +8,7 @@ Nous proposons ici aux participants de sélectionner les  méthodes et outils qu
 
 Ce kit contient :
 - une introduction
+- un canvas pour accompagner la création de formations
 - des méthodes
 - une liste des autres méthodes pédagogiques à explorer
 - une bibliographie 
