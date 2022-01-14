@@ -2,9 +2,8 @@
 
 
 * [À propos de ce document](README.md)
-* [Introduction](02-intro.md)
-
-
+* [Introduction](01-intro.md)
+* [Fil rouge activités](02-filrouge.md)
 * [Apprentissage par problème](03-apprentissage-probleme.md)
 * [Classe puzzle](04-classe-puzzle.md)
 * [Classe inversée (flipped-classroom)](05-flipped-classroom.md)
