@@ -31,6 +31,7 @@ En lien avec un projet / un devoir des étudiant-es / des chercheurs/euses ?
 
 
 
+
 ## Activité 2 (individuelle ) : Formuler des objectifs pédagogiques
 
 A l’aide de la taxonomie de Bloom, rédigez 2 à 4 objectifs pédagogiques pour votre formation.
@@ -64,6 +65,10 @@ Je m’imagine mettre en pratique cette méthode dans une future formation : ass
 
 
 Pour quelles raisons ?
+
+
+
+
      
      
 ### Méthode 2
@@ -80,5 +85,49 @@ Je m’imagine mettre en pratique cette méthode dans une future formation : ass
 Pour quelles raisons ?
      
      
+     
+     
+     
 
-## Activité 4 (individuelle): 
+## Activité 4 (individuelle): "Développement d’une activité pour ma formation"
+
+Inspirez vous des méthodes présentées dans la matinée
+
+Contextualisez l’activité avec le sujet du cours, et ses contraintes
+
+Pensez aux préparatifs et matériel nécessaires
+
+Si vous avez le temps, créez un fil rouge de chaque étape de l’activité, avec un timing
+
+### Mon activité: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
