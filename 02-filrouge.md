@@ -29,6 +29,7 @@ Salle et matériel à disposition / à demander :
 En lien avec un projet / un devoir des étudiant-es / des chercheurs/euses ?
 
 
+Les étudiant-es ont-ils déjà suivi une formation aux compétences informationnelles ? Quel est leur niveau sur le sujet de la formation ?
 
 
 
@@ -89,11 +90,11 @@ Pour quelles raisons ?
      
      
 
-## Activité 4 (individuelle): "Développement d’une activité pour ma formation"
+## Activité 4 (individuelle): "Développer une activité pour ma formation"
 
 Inspirez vous des méthodes présentées dans la matinée
 
-Contextualisez l’activité avec le sujet du cours, et ses contraintes
+Contextualisez l’activité avec le contexte du cours (et ses contraintes)
 
 Pensez aux préparatifs et matériel nécessaires
 
@@ -129,5 +130,67 @@ Si vous avez le temps, créez un fil rouge de chaque étape de l’activité, av
 
 
 
+## Activité 5 (individuelle) : "Ébaucher un scénario pour ma formation"
+
+Sur la base des exemples précédents, reprenez l’activité développée en début d’après-midi et construisez un scénario pour une séquence de cours répondant à vos objectifs pédagogiques
+
+Pensez à l’alternance entre phases théoriques et activités
+
+Minutez chaque partie de votre formation
+
+Listez le matériel nécessaire
+
+### Ma séquence de formation: 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Activité 6 (en binôme/trinôme) : "Réflexion sur les scénarios de formation"
+
+Présentez respectivement vos scénarios de formation et confrontez-les aux questions suivantes :
+
+L’alignement pédagogique (rapport entre les activités et les objectifs) fait-il sens ?
+
+
+
+Le rapport temps/contenu semble-t-il réaliste ?
+
+
+
+Y a-t-il des points sur lesquels il faudrait être particulièrement attentif lors de la préparation ou de l’animation de cette formation ?
