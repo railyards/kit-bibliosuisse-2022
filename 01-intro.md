@@ -12,3 +12,5 @@ Ce kit contient :
 - des méthodes
 - une liste des autres méthodes pédagogiques à explorer
 - une bibliographie 
+
+<div style="page-break-after: always;"></div>
