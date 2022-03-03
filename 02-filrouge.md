@@ -89,17 +89,28 @@ Pour quelles raisons ?
      
      
 ### Méthode 2
-
 Nom de la méthode :
+<br/><br/>
 
 
 Quel est le principal point fort de cette méthode ?
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 
 Je m’imagine mettre en pratique cette méthode dans une future formation : assurément / peut-être / probablement pas
 
+<br/><br/>
+
 
 Pour quelles raisons ?
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
      
      
      
@@ -108,38 +119,54 @@ Pour quelles raisons ?
 
 ## Activité 4 (individuelle): "Développer une activité pour ma formation"
 
-Inspirez vous des méthodes présentées dans la matinée
+Inspirez vous des méthodes présentées dans la matinée. 
 
 Contextualisez l’activité avec le contexte du cours (et ses contraintes)
 
 Pensez aux préparatifs et matériel nécessaires
 
-Si vous avez le temps, créez un fil rouge de chaque étape de l’activité, avec un timing
+Si vous avez le temps, créez un fil rouge de chaque étape de l’activité, avec un timing.
+
 
 ### Mon activité: 
 
+Description:
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+
+Etape de préparation :
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+Matériel nécessaire:
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+Séquences de l'activité: 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 
 
@@ -158,43 +185,30 @@ Listez le matériel nécessaire
 
 ### Ma séquence de formation: 
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 
 ## Activité 6 (en binôme/trinôme) : "Réflexion sur les scénarios de formation"
@@ -203,10 +217,26 @@ Présentez respectivement vos scénarios de formation et confrontez-les aux ques
 
 L’alignement pédagogique (rapport entre les activités et les objectifs) fait-il sens ?
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 
 Le rapport temps/contenu semble-t-il réaliste ?
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+
 
 
 Y a-t-il des points sur lesquels il faudrait être particulièrement attentif lors de la préparation ou de l’animation de cette formation ?
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
