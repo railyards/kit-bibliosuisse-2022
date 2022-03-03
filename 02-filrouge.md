@@ -31,23 +31,29 @@ En lien avec un projet / un devoir des étudiant-es / des chercheurs/euses ?
 
 Les étudiant-es ont-ils déjà suivi une formation aux compétences informationnelles ? Quel est leur niveau sur le sujet de la formation ?
 
+<br/><br/>
 
+<br/><br/>
 
 ## Activité 2 (individuelle ) : Formuler des objectifs pédagogiques
 
 A l’aide de la taxonomie de Bloom, rédigez 2 à 4 objectifs pédagogiques pour votre formation.
 
 Objectif 1:
-
+<br/><br/>
+<br/><br/>
 
 Objectif 2: 
-
+<br/><br/>
+<br/><br/>
 
 Objectif 3:
-
+<br/><br/>
+<br/><br/>
 
 Objectifs 4:
-
+<br/><br/>
+<br/><br/>
 
 
 ## Activité 3 (en groupe) : « À la découverte de méthodes d’animation »
@@ -57,16 +63,26 @@ Décrivez au moyen des fiches ci-dessous les 2 méthodes attribuées à votre gr
 ### Méthode 1
 
 Nom de la méthode :
+<br/><br/>
 
 
 Quel est le principal point fort de cette méthode ?
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 
 Je m’imagine mettre en pratique cette méthode dans une future formation : assurément / peut-être / probablement pas
 
+<br/><br/>
+
 
 Pour quelles raisons ?
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 
 
