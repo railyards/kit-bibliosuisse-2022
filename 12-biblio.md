@@ -1,6 +1,6 @@
 # Références
 
-Cette liste fournit aussi bien les références des ouvrages cités lors de la formation et dans le présent document que des lectures supplémentaires qui peuvent intéressés toutes les personnes intéressées à découvrir de nouvelles méthodes pédagogiques. Il convient toutefois de ne pas perdre de vue qu'il s'agit d'une **liste sélective et subjective**.
+Cette liste fournit aussi bien les références des ouvrages cités lors de la formation et dans le présent document que des lectures supplémentaires destinées à toutes les personnes intéressées à découvrir de nouvelles méthodes pédagogiques. Il convient toutefois de ne pas perdre de vue qu'il s'agit d'une **liste sélective et subjective**.
 
 Cette bibliographie est tenue à jour sur [Zotero](https://www.zotero.org/groups/2212172/former_aux_comptences_informationnelles_en_milieu_acadmique/library).
 
