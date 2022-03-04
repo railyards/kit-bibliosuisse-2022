@@ -123,9 +123,9 @@ Pour quelles raisons ?
 
 Inspirez vous des méthodes présentées dans la matinée. 
 
-Contextualisez l’activité avec le contexte du cours (et ses contraintes)
+Contextualisez l’activité avec le contexte du cours (et ses contraintes).
 
-Pensez aux préparatifs et matériel nécessaires
+Pensez aux préparatifs et matériel nécessaires.
 
 Si vous avez le temps, créez un fil rouge de chaque étape de l’activité, avec un timing.
 
@@ -177,13 +177,13 @@ Séquences de l'activité:
 
 ## Activité 5 (individuelle) : "Ébaucher un scénario pour ma formation"
 
-Sur la base des exemples précédents, reprenez l’activité développée en début d’après-midi et construisez un scénario pour une séquence de cours répondant à vos objectifs pédagogiques
+Sur la base des exemples précédents, reprenez l’activité développée en début d’après-midi et construisez un scénario pour une séquence de cours répondant à vos objectifs pédagogiques.
 
-Pensez à l’alternance entre phases théoriques et activités
+Pensez à l’alternance entre phases théoriques et activités.
 
-Minutez chaque partie de votre formation
+Minutez chaque partie de votre formation.
 
-Listez le matériel nécessaire
+Listez le matériel nécessaire.
 
 ### Ma séquence de formation: 
 
