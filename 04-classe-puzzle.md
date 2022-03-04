@@ -1,7 +1,7 @@
 # Classe puzzle (jigsaw classroom)
 
 ### Description
-La classe puzzle est une méthode d'apprentissage en groupes avec laquelle le contenu du cours est divisé en parties distinctes. Au départ, les apprenant-es sont divisés en sous-groupes (par exemple 5 groupes de 5 personnes). Chaque sous-groupe reçoit un contenu à étudier. Ensuite, de nouveaux groupes sont formés avec à chaque fois une personne de chaque groupe initial. Chacun-e est alors chargé de transmettre dans son nouveau sous-groupe les connaissances acquises précédemment. Avec cette méthode, l'enseignant-e est uniquement facilitateur/trice de l'activité et ne transmet pas activement de contenus à la classe.
+La classe puzzle est une méthode d'apprentissage en groupes avec laquelle le contenu du cours est divisé en parties distinctes. Au départ, les apprenant-es sont divisé-es en sous-groupes (par exemple 5 groupes de 5 personnes). Chaque sous-groupe reçoit un contenu à étudier. Ensuite, de nouveaux groupes sont formés avec, à chaque fois, une personne de chaque groupe initial. Chacun-e est alors chargé de transmettre dans son nouveau sous-groupe les connaissances acquises précédemment. Avec cette méthode, l'enseignant-e est uniquement facilitateur/trice de l'activité et ne transmet pas activement de contenus à la classe.
 
 ### Taille du groupe
 La classe puzzle fonctionne bien avec des classes de 16 à 40 étudiant-es environ. La difficulté est d'avoir un nombre de personnes adéquat pour pouvoir effectuer des sous-groupes de taille égale dans les phase 1 et 2 de l'activité.
