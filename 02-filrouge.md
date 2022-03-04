@@ -1,7 +1,9 @@
 # Activités
 
-Les objectifs des activités regroupées ici sont :
+Les objectifs des activités regroupées ici ont pour objectif :
+
 1° de mettre en application les divers points théoriques abordés lors de la formation sur un projet personnel
+
 2° de servir de canevas pour la mise en place de futures séquences de formation dans sa pratique professionnelle
 
 ## Activité 1 (individuelle): Description générale
