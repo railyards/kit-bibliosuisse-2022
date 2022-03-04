@@ -1,6 +1,6 @@
 # Activités
 
-Les objectifs des activités regroupées ici ont pour objectif :
+Les activités regroupées ici ont pour objectif :
 
 1° de mettre en application les divers points théoriques abordés lors de la formation sur un projet personnel
 
@@ -11,25 +11,25 @@ Les objectifs des activités regroupées ici ont pour objectif :
 Pour commencer, il s'agit de décrire le contexte de la formation sur laquelle vous allez travailler aujourd'hui. 
 
 Public / niveau :
-
+<br/><br/>
 
 Nombre de participant-es attendu :
-
+<br/><br/>
 
 Nombre de formateurs/trices prévu :
-
+<br/><br/>
 
 Mandant-e / Contact (si applicable) :
-
+<br/><br/>
 
 Temps à disposition / fréquence :
-
+<br/><br/>
 
 Salle et matériel à disposition / à demander :
-
+<br/><br/>
 
 En lien avec un projet / un devoir des étudiant-es / des chercheurs/euses ?
-
+<br/><br/>
 
 Les étudiant-es ont-ils déjà suivi une formation aux compétences informationnelles ? Quel est leur niveau sur le sujet de la formation ?
 
