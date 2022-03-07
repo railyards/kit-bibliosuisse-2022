@@ -12,7 +12,5 @@
 * [Jeu de rôle](08-jeu-role.md)
 * [Questions conceptuelles (Concept tests)](09-conceptests.md)
 * [Jeu de l'enveloppe](10-envelope-game.md)
-* [Autres méthodes](11-other-methods.md)
-
-* [Références](12-biblio.md)
+* [Références](11-biblio.md)
 
