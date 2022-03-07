@@ -12,4 +12,4 @@ La clé de réussite de la classe inversée n'est pas forcément le temps mais b
 ### Exemple
 Dans le cadre d'un atelier de formation de formateurs/trices, nous aurions pu envoyer quelques ressources d'information, comme de articles sur les méthodes pédagogiques, à une partie des participant-es inscrit-es. Au reste du groupe, nous aurions demandé de se renseigner sur une liste d'outils utilisables dans le cadre de formations. 
 
-En classe, nous aurions prévu que chacun-e dfasse une synthèse de la méthode / outil étudié au préalable, puis, par groupe, vous auriez travaillé sur une séquence de cours en incluant les méthodes et outils présentés au début de l'atelier. 
+En classe, nous aurions prévu que chacun-e fasse une synthèse de la méthode / outil étudié au préalable, puis, par groupe, vous auriez travaillé sur une séquence de cours en incluant les méthodes et outils présentés au début de l'atelier. 
