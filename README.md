@@ -22,7 +22,7 @@ Raphaël Grolimund, *bibliothécaire formateur*
 
 
 ## Version `0.2`
-La dernière version de ce document est disponible sur [https://epfl-fbib.gitbook.io/kit-formation/](https://epfl-fbib.gitbook.io/kit-formation/).   
+La dernière version de ce document est disponible sur [https://go.epfl.ch/kit-formation](go.epfl.ch/kit-formation).   
 
 ## Licence `CC BY`
 ![logo CC-BY](icones/by.svg)   
