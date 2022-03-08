@@ -81,3 +81,5 @@ HATTIE, John, 2009. Visible learning: a synthesis of over 800 meta-analyses rela
 HATTIE, John et TIMPERLEY, Helen, 2007. The Power of Feedback. Review of Educational Research. 1 mars 2007. Vol. 77, n° 1, pp. 81‑112. DOI 10.3102/003465430298487. 
 
 JOUSSE, Nicolas, 2021. Formation: dynamiser un stage, impliquer les participants, gérer au mieux le temps. Paris : Eyrolles. Eyrolles learning. ISBN 978-2-212-57376-3. 
+
+PROJET « LES COMPÉTENCES EN CULTURE INFORMATIONNELLE DANS LES HAUTES ÉCOLES SUISSES », 2011. Fil rouge pour les cours en culture informationnelle. informationskompetenz [en ligne]. 2011. [Consulté le 8 mars 2022]. Disponible à l’adresse : https://www.informationskompetenz.ch/fr/ikurz-fr/kursgestaltung
